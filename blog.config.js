@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  title: 'SUMARSONO',
+  author: 'Sumarsono',
+  email: 'nalakawula@gmail.com',
+  link: 'https://cv.sumarsono.com',
+  description: 'Sumarsono CV',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -16,9 +16,9 @@ const BLOG = {
   showAbout: true, // WIP
   showArchive: true, // WIP
   autoCollapsedNavBar: false, // the automatically collapsed navigation bar
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/nalakawula',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion'],
+    keywords: ['Sumarsono', 'Sumar', 'Sysadmin', 'DevOps'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！

@@ -13,8 +13,8 @@ const BLOG = {
   since: 2021, // if leave this empty, current year will be used.
   postsPerPage: 7,
   sortByDate: false,
-  showAbout: true, // WIP
-  showArchive: true, // WIP
+  showAbout: false, // WIP
+  showArchive: false, // WIP
   autoCollapsedNavBar: false, // the automatically collapsed navigation bar
   socialLink: 'https://twitter.com/nalakawula',
   seo: {
